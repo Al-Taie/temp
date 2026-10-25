@@ -5,5 +5,4 @@
 <img width="468" height="894" alt="Pasted image 20261022153110" src="https://github.com/user-attachments/assets/11308cbe-15bd-4a2b-8e5a-683018876b2a" />
 <img width="468" height="894" alt="Pasted image 20261022153034" src="https://github.com/user-attachments/assets/f77f723e-523d-463b-807f-0689c524443e" />
 <img width="468" height="894" alt="Pasted image 20261022151932" src="https://github.com/user-attachments/assets/5c53cb57-0fa0-47ce-8a43-63eac0611218" />
-<img width="469" height="876" alt="Pasted image 20261022151924" src="https://github.com/user-attachments/assets/0225ca50-b198-4f4c-a94b-09d1016db49f" />
 <img width="468" height="894" alt="Pasted image 20261022151913" src="https://github.com/user-attachments/assets/48c540d6-df6f-4c8f-927d-4e76968f8cd1" />
